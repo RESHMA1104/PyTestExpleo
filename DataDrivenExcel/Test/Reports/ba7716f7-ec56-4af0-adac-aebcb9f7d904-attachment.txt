@@ -1,0 +1,8 @@
+2026-06-09 17:18:23 - INFO - Program Execution Started
+2026-06-09 17:18:24 - INFO - WebDriver Started
+2026-06-09 17:18:25 - INFO - Wait Implemented
+2026-06-09 17:18:27 - INFO - DemoBlaze Application is launched
+2026-06-09 17:18:28 - INFO - User clicks login
+2026-06-09 17:18:28 - INFO - UserName is entered
+2026-06-09 17:18:28 - INFO - Password is entered
+2026-06-09 17:18:28 - INFO - User clicks on login button

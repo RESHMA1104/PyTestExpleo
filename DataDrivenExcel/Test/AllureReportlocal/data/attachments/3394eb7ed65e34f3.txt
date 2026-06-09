@@ -1,0 +1,8 @@
+[32mINFO    [0m AutomationLogger:test_DataDrivenExcel.py:13 Program Execution Started
+[32mINFO    [0m AutomationLogger:test_DataDrivenExcel.py:15 WebDriver Started
+[32mINFO    [0m AutomationLogger:test_DataDrivenExcel.py:18 Wait Implemented
+[32mINFO    [0m AutomationLogger:test_DataDrivenExcel.py:20 DemoBlaze Application is launched
+[32mINFO    [0m AutomationLogger:test_DataDrivenExcel.py:22 User clicks login
+[32mINFO    [0m AutomationLogger:test_DataDrivenExcel.py:24 UserName is entered
+[32mINFO    [0m AutomationLogger:test_DataDrivenExcel.py:26 Password is entered
+[32mINFO    [0m AutomationLogger:test_DataDrivenExcel.py:28 User clicks on login button

@@ -1,0 +1,1 @@
+[{"uid":"1ebf4a116d92d102","name":"test_validation[KiotAdmin-Kiot@123]","time":{"start":1781005703550,"stop":1781005711386,"duration":7836},"status":"passed","severity":"normal"},{"uid":"c61a039a00096b00","name":"test_validation[KiotAdmin-admin123]","time":{"start":1781005711399,"stop":1781005718733,"duration":7334},"status":"passed","severity":"normal"}]
